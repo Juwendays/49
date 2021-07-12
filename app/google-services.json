@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468566887768",
+    "project_id": "sunlit-theory-279017",
+    "storage_bucket": "sunlit-theory-279017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468566887768:android:7fdeecf7c91c239ad0e92d",
+        "android_client_info": {
+          "package_name": "com.example.pawpetshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468566887768-7jk4di52vspgo090dj4nacfi05ekbv7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pawpetshop",
+            "certificate_hash": "b3044b1d04aad28af21c2604091ef00caa6e1b1d"
+          }
+        },
+        {
+          "client_id": "468566887768-e1k084hoj9k9a64tn7qbc8o67cmpsufp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoNh-xvGcQYQtfmPOoQLUn1aXzDMgW2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468566887768-e1k084hoj9k9a64tn7qbc8o67cmpsufp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
